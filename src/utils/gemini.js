@@ -1,5 +1,5 @@
 const TEXT_MODEL = 'gemini-2.0-flash-lite';
-const IMAGE_MODEL = 'gemini-2.0-flash-exp';
+const IMAGE_MODEL = 'gemini-2.0-flash-preview-image-generation';
 
 const BASE_URL = 'https://generativelanguage.googleapis.com/v1beta/models';
 
